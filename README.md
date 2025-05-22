@@ -90,6 +90,12 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 ❌ Pantalla en blanco o sin imagen: Asegúrate de estar conectado a internet.
 
 
+✅ Imagenes de la aplicación
+![image](https://github.com/user-attachments/assets/da20a465-bcb4-4c73-a2cf-f64c0b2fc8b7)
+![image](https://github.com/user-attachments/assets/5ba1609a-2bbf-425c-806a-e00b8d982be9)
+
+
+
 
 👨‍💻 Autor
 Desarrollado por Francisco Cantero Maestro
