@@ -99,5 +99,7 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 
 
 👨‍💻 Autor
+
 Desarrollado por Francisco Cantero Maestro
+
 Proyecto de gestión de fichajes con JavaFX - 2025
