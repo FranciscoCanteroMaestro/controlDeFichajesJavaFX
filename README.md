@@ -86,7 +86,7 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 ❌ No conecta a la base de datos: Verifica si está MySQL y PHPmyAdmin iniciados.
    Si no funciona, verifica la URL, usuario y contraseña en DAOUsuarioSQL.java.
    Si eso tampoco es el problema, prueba a iniciar sesión en PHPmyAdmin antes de iniciar el programa e inicialo con PHPmyAdmin abierto.
-
+   
 ❌ Pantalla en blanco o sin imagen: Asegúrate de estar conectado a internet.
 
 
@@ -99,7 +99,5 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 
 
 👨‍💻 Autor
-
 Desarrollado por Francisco Cantero Maestro
-
 Proyecto de gestión de fichajes con JavaFX - 2025
