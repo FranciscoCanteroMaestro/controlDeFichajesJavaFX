@@ -10,6 +10,14 @@ Este es un sistema de fichaje de empleados desarrollado en **Java con JavaFX**, 
 
 ---
 
+
+## 📩 Instalación de la aplicación
+
+La aplicación está comprimida en el archivo llamado "controlDeFichajes.zip", para instalarla lo unico que tienes que hacer es: descargarlo y extraerlo el la carpeta que tu quieras.
+1. Descargar el archivo "controlDeFichajes.zip".
+2. Descomprimirlo donde quieras.
+3. Leer el apartado "🚀 ¿Cómo ejecutar la aplicación?".
+
 ## 📦 Contenido del paquete
 
 El proyecto incluye los siguientes archivos para su ejecución:
