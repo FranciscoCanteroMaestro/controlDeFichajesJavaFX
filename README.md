@@ -79,7 +79,7 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
        ('Ruben Doblas', '6666', false, NOW(), false);
        ('Lorena García', '7777', true, NOW(), false);
        ('Mireya Cueto', '8888', true, NOW(), false);
-
+```
 🛠️ ¿Problemas comunes?
 ❌ El programa no se abre: Asegúrate de tener Java instalado y actualizado.
 
@@ -91,8 +91,8 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 
 
 ✅ Imagenes de la aplicación
-![image](https://github.com/user-attachments/assets/da20a465-bcb4-4c73-a2cf-f64c0b2fc8b7)
-![image](https://github.com/user-attachments/assets/5ba1609a-2bbf-425c-806a-e00b8d982be9)
+![imgNormalMode](img/imgNormalMode.png)
+![imgAdminMode](img/imgAdminMode.png)
 
 
 
