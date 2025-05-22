@@ -91,6 +91,7 @@ VALUES ('Paco Lopez', '1234', false, NOW(), true),
 
 
 ✅ Imagenes de la aplicación
+
 ![imgNormalMode](img/imgNormalMode.png)
 ![imgAdminMode](img/imgAdminMode.png)
 
