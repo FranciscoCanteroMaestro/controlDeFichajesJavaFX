@@ -23,7 +23,9 @@ La aplicación está comprimida en el archivo llamado "controlDeFichajes.zip", p
 El proyecto incluye los siguientes archivos para su ejecución:
 
 📁 controlDeFichajes/ # Carpeta madre del proyecto.
+
 ├── 📁 img/ # Carpeta donde se guardan las imágenes necesarias para la aplicación.
+
 |    └── Logo_MiPc_Computadores # Imagen usada para el logo del Launcher y en la propia aplicación.
 ├── 📁 openjfx-24.0.1_windows-x64_bin-sdk/ # Carpeta donde se encuentran los archivos necesarios para que se pueda ejecutar la aplicación en javafx.
 |    └── ...
